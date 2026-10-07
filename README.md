@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nurin
 
-<!--
-**Nurin-Irdinaa/Nurin-Irdinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM with a passion for software engineering, machine learning, and AI-driven solutions.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor of Computer Science (Hons.) (CS230), UiTM
+- Currently learning: Large Language Models (LLMs) and automated testing
+- My FYP area: Automated Software Test Case Generation using LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+ Languages: Python, Java, C++, SQL
+- Tools & Environments: GitHub, NetBeans, SableCC, draw.io 
+
+## Projects
+
+## Contact
+- Email: nurinirrdinaaa@gmail.com
